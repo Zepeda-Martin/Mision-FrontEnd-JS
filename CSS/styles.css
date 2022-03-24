@@ -102,14 +102,13 @@ li {
 body {
     font-family: var(--poppins);
     font-size: 1rem;
-    /*(he no mms alba borra esto y ve la magia) background-color: var(--main-color-light);*/
-    background: url("./IMAGES/wallpaperbetter.com_1920x1080.jpg") no-repeat center top;
+ 
+    background: url("https://github.dev/Zepeda-Martin/Mision-FrontEnd-JS/blob/c5dcac961621cac0f681c4f11e1b5e9fce466e85/IMAGES/wallpaperbetter.com_1920x1080.jpg") no-repeat center top;
     background-size: cover;
     height: 490px;
     background-attachment: fixed;
     background-position-x:center;
     background-position-y:center;
-    transition: .3s ease-in-out;
 }
 
 hr {
