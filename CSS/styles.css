@@ -103,7 +103,7 @@ body {
     font-family: var(--poppins);
     font-size: 1rem;
     /*(he no mms alba borra esto y ve la magia) background-color: var(--main-color-light);*/
-    background: url("/images/wallpaperbetter.com_1920x1080.jpg") no-repeat center top;
+    background: url("./images/wallpaperbetter.com_1920x1080.jpg") no-repeat center top;
     background-size: cover;
     height: 490px;
     background-attachment: fixed;
