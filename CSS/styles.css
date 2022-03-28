@@ -102,7 +102,8 @@ li {
 body {
     font-family: var(--poppins);
     font-size: 1rem;
- 
+    /*(Borrar el comentario de esta linea y deja el codigo) background-color: var(--main-color-light);*/
+    /*Borra todo el contenido de abajo /linea 106 - 112*/
     background: url("https://c.wallhere.com/photos/cd/94/Pok_mon_pixel_art-89641.png!d") no-repeat center top;
     background-size: cover;
     height: 490px;
